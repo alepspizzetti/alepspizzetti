@@ -25,5 +25,3 @@
 📞 Contatto / WhatsApp: [+39 392 467 1708](https://wa.me/+393924671708)
 📧 Email: a.pspizzetti@gmail.com
 🔗 LinkedIn: [linkedin.com/in/alepspizzetti](https://www.linkedin.com/in/alepspizzetti/)
-
-[![roadmap.sh](https://roadmap.sh/card/wide/6857dc74baf15274552e94ba?variant=dark)](https://roadmap.sh)
