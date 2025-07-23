@@ -1,27 +1,47 @@
+# 🇮🇹 Ciao, benvenuto nel mio profilo GitHub!  
+### 👋 Sono Alessandro!  
 
-# 🇮🇹 Ciao, benvenuto nel mio profilo GitHub!
+🎯 **Sviluppatore Backend** con esperienza dal 2021 in progetti pubblici e privati. Basato in Italia, cerco opportunità per contribuire a team tecnici stimolanti.  
 
-### 👋 Sono Alessandro!
+🔧 **Competenze chiave:**  
+- Linguaggi: **Java, Python, Groovy**  
+- Backend: **Jakarta EE, Spring**  
+- Strumenti: **Maven, GitHub Actions, Git, ActiveMQ, PostgreSQL, Elasticsearch, AWS S3, Hibernate, Kubernetes**  
+- Full stack: **AngularJS, JavaScript, HTML/CSS**  
 
-🎯 **Sviluppatore backend** con esperienza dal 2021 in progetti pubblici e privati. Attualmente vivo in Italia e sono alla ricerca di nuove opportunità per contribuire in team tecnici stimolanti.
+🛠️ **Progetti rilevanti:**  
+- Sistemi **contabili pubblici** (Java/Jakarta EE) con integrazioni complesse.  
+- **Middleware** per partner esterni (ActiveMQ/REST).  
+- Automazione di **processi giudiziari** (Groovy).  
+- **ETL e migrazione dati** (Python/pandas).  
 
-🔧 **Tecnologie principali:**
-- Linguaggi: **Java, Python, Groovy**
-- Backend: **Jakarta EE (JavaEE), Spring**
-- Code & build tools: **Maven, GitHub Actions, Git**
-- Altri strumenti: **ActiveMQ, PostgreSQL, Elasticsearch, AWS S3, Hibernate, Kubernetes**
-- Esperienza anche come full stack: **AngularJS, JavaScript, HTML/CSS**
+🌍 Residente in Italia, miglioro ogni giorno il mio italiano e sono aperto a collaborazioni!  
 
-🛠️ **Cosa ho già fatto:**
-- Sviluppo di **sistemi contabili pubblici** in Java (Jakarta EE) con integrazioni complesse tra enti.
-- Creazione di **middleware per integrazione con partner** esterni usando ActiveMQ, REST e file system.
-- Automatizzazione di **processi giudiziari** usando Groovy.
-- Esperienza in **ETL e migrazione di dati** con Python (pandas).
+📫 **Contattami:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alepspizzetti)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:a.pspizzetti@gmail.com)  
 
-🌍 Attualmente mi sto integrando in Italia, migliorando il mio italiano ogni giorno e motivato a crescere professionalmente nel settore IT.
+---
 
-📫 **Contattami se vuoi collaborare o solo fare due chiacchiere tecniche!**
+# 🇧🇷 Olá, bem-vindo ao meu perfil GitHub!  
+### 👋 Eu sou o Alessandro!  
 
-📞 Contatto / WhatsApp: [+39 392 467 1708](https://wa.me/+393924671708)
-📧 Email: a.pspizzetti@gmail.com
-🔗 LinkedIn: [linkedin.com/in/alepspizzetti](https://www.linkedin.com/in/alepspizzetti/)
+🎯 **Desenvolvedor Backend** com experiência desde 2021 em projetos públicos e privados. Atualmente moro na Itália e busco oportunidades para contribuir com equipes técnicas desafiadoras.  
+
+🔧 **Tecnologias principais:**  
+- Linguagens: **Java, Python, Groovy**  
+- Backend: **Jakarta EE (JavaEE), Spring**  
+- Ferramentas: **Maven, GitHub Actions, Git, ActiveMQ, PostgreSQL, Elasticsearch, AWS S3, Hibernate, Kubernetes**  
+- Full stack: **AngularJS, JavaScript, HTML/CSS**  
+
+🛠️ **Projetos destacados:**  
+- Sistemas de **contabilidade pública** em Java (Jakarta EE) com integração entre órgãos.  
+- **Middleware** para parceiros externos (ActiveMQ/REST).  
+- Automação de **processos judiciais** (Groovy).  
+- **ETL e migração de dados** (Python/pandas).  
+
+🌍 Atualmente morando na Italia, aprimorando meu italiano e aberto a colaborações!  
+
+📫 **Vamos conversar?**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/alepspizzetti)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail)](mailto:a.pspizzetti@gmail.com)  
