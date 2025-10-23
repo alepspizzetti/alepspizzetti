@@ -1,13 +1,13 @@
 # 🇧🇷 Olá, bem-vindo ao meu perfil GitHub!  
 ### 👋 Eu sou o Alessandro!  
 
-🎯 **Desenvolvedor Backend** com experiência desde 2021 em projetos públicos e privados. Atualmente moro na Itália e busco oportunidades para contribuir com equipes técnicas desafiadoras.  
+🎯 **Desenvolvedor Backend** com experiência desde 2021 em projetos públicos e privados.
 
 🔧 **Tecnologias principais:**  
-- Linguagens: **Java, Python, Groovy**  
-- Backend: **Jakarta EE (JavaEE), Spring**  
-- Ferramentas: **Maven, GitHub Actions, Git, ActiveMQ, PostgreSQL, Elasticsearch, AWS S3, Hibernate, Kubernetes**  
-- Full stack: **AngularJS, JavaScript, HTML/CSS**  
+- Linguagens: **C#, Java, Python, Groovy**  
+- Backend: **.NET, Spring**  
+- Ferramentas: **Maven, Git, ActiveMQ, PostgreSQL, Elasticsearch, AWS S3, Hibernate, Kubernetes**  
+- Full stack: **React, AngularJS, JavaScript, HTML/CSS**  
 
 🛠️ **Projetos destacados:**  
 - Sistemas de **contabilidade pública** em Java (Jakarta EE) com integração entre órgãos.  
